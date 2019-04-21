@@ -1,0 +1,24 @@
+{
+  "name": "socialsecurityframework",
+  "version": "1.0.0",
+  "description": "This is for Social Security Administration ",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiazbekova/ssa-automation-framework.git"
+  },
+  "author": "Aigerim Baiazbekova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baiazbekova/ssa-automation-framework/issues"
+  },
+  "homepage": "https://github.com/baiazbekova/ssa-automation-framework#readme",
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.2",
+    "protractor-beautiful-reporter": "^1.2.7"
+  }
+}
